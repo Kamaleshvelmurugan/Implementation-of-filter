@@ -179,4 +179,4 @@ ii) Using Laplacian Operator
 
 ## Result:
 Thus the filters are designed for smoothing and sharpening the images in the spatial domain.
-](https://github.com/Kamaleshvelmurugan/IMAGE-TRANSFORMATIONS/blob/main/README.md)
+]
